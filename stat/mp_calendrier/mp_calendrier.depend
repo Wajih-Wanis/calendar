@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1641156530 source:d:\mp_12\mp_calendrier\calendrierc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"calendrier.h"
+
+1641156637 source:d:\mp_12\mp_calendrier\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calendrier.h"
+
+1641156530 d:\mp_12\mp_calendrier\calendrier.h
+
+1641631231 source:d:\stat\mp_calendrier\calendrierc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"calendrier.h"
+
+1641640059 d:\stat\mp_calendrier\calendrier.h
+
+1641639648 source:d:\stat\mp_calendrier\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"calendrier.h"
+
+1641634831 source:d:\mp_calendrier\stat\mp_calendrier\calendrierc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"calendrier.h"
+
+1641643659 d:\mp_calendrier\stat\mp_calendrier\calendrier.h
+
+1652537158 source:d:\mp_calendrier\stat\mp_calendrier\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"calendrier.h"
+

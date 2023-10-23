@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1641633447 source:d:\dyn\dynamique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"dynamique.h"
+
+1641639851 source:d:\dyn\dynamique\dynamique.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"dynamique.h"
+
+1641632373 d:\dyn\dynamique\dynamique.h
+
